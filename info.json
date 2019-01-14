@@ -1,0 +1,25 @@
+{
+    "name": "Rendon Elsesser",
+    "website": "https://rendonels.github.io/",
+    "linkedin": "https://www.linkedin.com/in/rendonelsesser/",
+    "github": "rendonels",
+    "email": "rendonelsesser@gmail.com",
+    "resume": "#",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "bootstrap",
+        "javascript", 
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "Rotary-Wing Pilot",
+        "Professional Sales"
+    ]
+}

@@ -1,0 +1,1 @@
+Created a personal npm package to pring out my personal resume that anyone can install and pring out from their console
